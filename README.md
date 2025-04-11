@@ -111,7 +111,7 @@ Key Stats:
 
 ## 👩‍💻 Contributors
 
-- **Dr. Svitlana Kovalivska** — Project Creator and Data Analyst  
+- **Svitlana Kovalivska** — Project Creator and Data Analyst  
   [GitHub Profile](https://github.com/Kovalivska)
 
 ## 📝 License
